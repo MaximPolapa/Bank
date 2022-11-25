@@ -1,5 +1,5 @@
 package bank.dto;
-
+//iojuhuj
 import bank.annotations.CodeCurrency;
 import lombok.AllArgsConstructor;
 import lombok.Data;
